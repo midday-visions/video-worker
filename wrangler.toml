@@ -1,0 +1,10 @@
+name = "video-worker"
+type = "javascript"
+workers_dev = true
+
+account_id = "b51150f97c59e51011f73b24dcc090bc"
+
+[[r2_buckets]]
+binding = "R2_BUCKET"
+bucket_name = "video-hosting"
+preview_bucket_name = "video-hosting"
