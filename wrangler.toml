@@ -2,8 +2,8 @@ name = "video-worker"
 main = "src/index.js"
 type = "javascript"
 workers_dev = true
-
 account_id = "b51150f97c59e51011f73b24dcc090bc"
+compatibility_date = "2025-03-12"
 
 [[r2_buckets]]
 binding = "R2_BUCKET"
