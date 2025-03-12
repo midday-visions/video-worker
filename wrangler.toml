@@ -1,4 +1,5 @@
 name = "video-worker"
+main = "src/index.js"
 type = "javascript"
 workers_dev = true
 
